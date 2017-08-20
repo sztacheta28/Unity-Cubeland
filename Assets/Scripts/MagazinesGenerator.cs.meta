@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8061eb1396999b848adc328d7eecce54
+timeCreated: 1492076077
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - magazinePrefab: {fileID: 199150, guid: eff481dd9f58abf4d98ebe7230af03c7, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
